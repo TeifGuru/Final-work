@@ -1,0 +1,15 @@
+D:\Учёба\Введение в программирование\Final work\obj\Debug\net6.0\Final work.csproj.AssemblyReference.cache
+D:\Учёба\Введение в программирование\Final work\obj\Debug\net6.0\Final work.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\Введение в программирование\Final work\obj\Debug\net6.0\Final work.AssemblyInfoInputs.cache
+D:\Учёба\Введение в программирование\Final work\obj\Debug\net6.0\Final work.AssemblyInfo.cs
+D:\Учёба\Введение в программирование\Final work\obj\Debug\net6.0\Final work.csproj.CoreCompileInputs.cache
+D:\Учёба\Введение в программирование\Final work\bin\Debug\net6.0\Final work.exe
+D:\Учёба\Введение в программирование\Final work\bin\Debug\net6.0\Final work.deps.json
+D:\Учёба\Введение в программирование\Final work\bin\Debug\net6.0\Final work.runtimeconfig.json
+D:\Учёба\Введение в программирование\Final work\bin\Debug\net6.0\Final work.dll
+D:\Учёба\Введение в программирование\Final work\bin\Debug\net6.0\Final work.pdb
+D:\Учёба\Введение в программирование\Final work\obj\Debug\net6.0\Final work.dll
+D:\Учёба\Введение в программирование\Final work\obj\Debug\net6.0\refint\Final work.dll
+D:\Учёба\Введение в программирование\Final work\obj\Debug\net6.0\Final work.pdb
+D:\Учёба\Введение в программирование\Final work\obj\Debug\net6.0\Final work.genruntimeconfig.cache
+D:\Учёба\Введение в программирование\Final work\obj\Debug\net6.0\ref\Final work.dll
